@@ -2,6 +2,12 @@
   "name": "gradepilot",
   "private": true,
   "version": "1.0.0",
+  "description": "Smart SGPA & Exam Planner for AIML engineering students with reverse SEE predictor and credit-weighted optimization",
+  "homepage": "https://cgpa-calc-ai-ml.vercel.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rishit-ui/CGPA-CALC-AI-ML.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
